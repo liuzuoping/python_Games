@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['alien_invasion.py'],
-             pathex=['E:\\Mycode\\python_Games\\Spaceship', 'E:\\Mycode\\python_Games\\Spaceship'],
+             pathex=['E:\\Mycode\\python_Games\\飞船大战游戏', 'E:\\Mycode\\python_Games\\飞船大战游戏'],
              binaries=[],
              datas=[],
              hiddenimports=[],
