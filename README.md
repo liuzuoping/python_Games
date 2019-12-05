@@ -7,13 +7,25 @@ some interesting games implemenred in python
 
 * 1：飞船大战
 
-！[SpaceShip](https://github.com/liuzuoping/python_Games/blob/master/images/spaceship.gif )
+
+
+
+
+！[SpaceShip](E:\Mycode\python_Games\images\spaceship.gif )
+
+
 
 * 2：五子棋游戏
 
-！[wuziqi]( [https://github.com/liuzuoping/python_Games/blob/master/images/%E4%BA%94%E5%AD%90%E6%A3%8B%E4%BA%BA%E4%BA%BA%E5%A4%A7%E6%88%98.gif](https://github.com/liuzuoping/python_Games/blob/master/images/五子棋人人大战.gif) )
 
- ！[wiziqimanmachine]( [https://github.com/liuzuoping/python_Games/blob/master/images/%E4%BA%94%E5%AD%90%E6%A3%8B%E4%BA%BA%E6%9C%BA%E5%AF%B9%E6%88%98.gif](https://github.com/liuzuoping/python_Games/blob/master/images/五子棋人机对战.gif) )
+
+！[wuziqi]( E:\Mycode\python_Games\images\五子棋人人大战.gif) )
+
+ ！[wiziqimanmachine](E:\Mycode\python_Games\images\五子棋人机对战.gif) )
+
+
+
+
 
 * 3: 贪吃蛇游戏
 
@@ -33,3 +45,4 @@ some interesting games implemenred in python
 * 6：坦克大战
 
 ！[Tank](E:\Mycode\python_Games\images\坦克大战.gif)
+
