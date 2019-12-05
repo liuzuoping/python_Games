@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Algorithms（python）/.idea/Algorithms（python）.iml" filepath="$USER_HOME$/Desktop/Algorithms（python）/.idea/Algorithms（python）.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Spaceship.iml" filepath="$PROJECT_DIR$/.idea/Spaceship.iml" />
+      <module fileurl="file://E:/GitHub_Chinese/pygame/.idea/pygame.iml" filepath="E:/GitHub_Chinese/pygame/.idea/pygame.iml" />
     </modules>
   </component>
 </project>

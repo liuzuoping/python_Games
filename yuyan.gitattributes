@@ -1,1 +1,0 @@
-*.md linguist-language=python //你项目内有什么文件 就使用 *.xx(xx代表文件后缀) 我的项目里markdown文件多
